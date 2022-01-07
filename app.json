@@ -1,0 +1,26 @@
+"name": "Telegraph-guide-NBot",
+    "description": "",
+    "logo": "https://telegra.ph/file/4f759717c9bad2111c4a3.jpg",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "Botz_Official"
+    ],
+    "repository": "https://github.com/neth1841/telegraph-guide-NBot",
+    "success_url": "https://t.me/NBOT_TEAM",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "Bot token, get it from @BotFather.",
+            "value": ""
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
+© 2022 GitHub, Inc.
+Terms
+Priv
