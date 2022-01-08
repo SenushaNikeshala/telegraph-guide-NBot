@@ -21,7 +21,7 @@ World No 1 Best Telegraph Uploader  to get telegraph link.By @NBOT_TEAM
 
 
 # Deploying
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://git.heroku.com/telegraguide.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/neth1841/telegraph-guide-NBot)
 ----
 
 comment = fork and star ⭐
