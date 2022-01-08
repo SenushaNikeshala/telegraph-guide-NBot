@@ -1,11 +1,12 @@
-"name": "Telegraph-guide-NBot",
-    "description": "",
+{
+    "name" :"Telegraph-guide-NBot",
+    "description": "World No 1 Best Telegraph Uploader By @NBOT_TEAM",
     "logo": "https://telegra.ph/file/4f759717c9bad2111c4a3.jpg",
     "keywords": [
+        "bot",
+        "new",
         "telegram",
-        "telethon",
-        "telegram-bot",
-        "Botz_Official"
+        "super"
     ],
     "repository": "https://github.com/neth1841/telegraph-guide-NBot",
     "success_url": "https://t.me/NBOT_TEAM",
@@ -21,6 +22,3 @@
         }
     ]
 }
-© 2022 GitHub, Inc.
-Terms
-Priv
