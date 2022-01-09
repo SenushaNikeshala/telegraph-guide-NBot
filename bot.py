@@ -24,7 +24,9 @@ logging.basicConfig(
 )
 
 bot = TelegramClient(None, api_id=6, api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e").start(
-    bot_token=config("BOT_TOKEN")
+    bot_token=config("BOT_TOKEN") ("API_HASH") Your API Hash from my.telegram.org
+("API_ID") Your API ID from my.telegram.org
+("BOT_TOKENY")our bot token from @BotFather
 )
 
 logging.info("Starting bot...")
