@@ -8,7 +8,7 @@
         "telegram",
         "super"
     ],
-    "repository": "https://github.com/neth1841/telegraph-guide-NBot",
+    "repository": "https://github.com/SenushaNikeshala/telegraph-guide-NBot",
     "success_url": "https://t.me/NBOT_TEAM",
     "env": {
         "BOT_TOKEN": {
